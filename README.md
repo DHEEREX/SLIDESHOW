@@ -12,19 +12,19 @@
         <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpoWsSiuhYOJtYLjVk0UAOhgqmflXVJ-sySg&usqp=CAU' alt=''>
       </div>
       <div class="slide fade">
-        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWYFHbEJQFu6URbTv7x-8sUf1yMogrwAf8mDVRoSdmgdcv0W7Udg-Dq7Vh56US7_hwlhs&usqp=CAU' alt=''>
+        <img src='https://stayglam.com/wp-content/uploads/2019/03/Unique-Braided-Bob-1.jpg' alt=''>
       </div>
       <div class="slide fade">
         <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2ICBDGvOSu2CoitjJhapgyuv2Kri23ahrZw&usqp=CAU' alt=''>
       </div>
       <div class="slide fade">
-        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbUErSW1jQBUiasWZ-aQ6FbZcqUzZ8YcST6w&usqp=CAU' alt=''>
+        <img src='https://leurr.com/wp-content/uploads/2022/07/266841304_455196606225068_8172323916080847629_n-819x1024.jpg' alt=''>
       </div>
        <div class="slide fade">
         <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMSY7xegHGC79yWQSLRu7t4zz98PBgTVd3aSai2_HnR-xspQahcsTo50VBf4yzfDw325k&usqp=CAU' alt=''>
       </div>
        <div class="slide fade">
-        <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJep6OTs1YdNkhmNhM_StpptbqQGdf6huabZkRBabLdxuK8_iMi0j2ohs4HjK19hFFUCU&usqp=CAU' alt=''>
+        <img src='https://i.pinimg.com/originals/b9/c2/11/b9c2110b35633120b06d7b8f4aba83db.jpg' alt=''>
       </div>
 
       <a href="#" class="prev" title="Previous">&#10094</a>
