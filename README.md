@@ -4,6 +4,53 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>Image Slider</title>
+    <style>
+      @keyframes fade {
+  0% {
+    opacity: 0;
+  }
+
+  100% {
+    opacity: 1;
+  }
+}
+
+* {
+  padding: 0;
+  border: 0;
+  box-sizing: border-box;
+}
+
+body {
+  height: 100%;
+}
+
+body h1 {
+  text-align: center;
+}
+
+.slide-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 1000px;
+  margin: auto;
+  position: relative;
+}
+
+.slide-container .slide {
+  display: none;
+  width: 100%;
+}
+
+.slide-container .slide.fade {
+  animation: fade 0.5s cubic-bezier(0.55, 0.085, 0.68, 0.53) both;
+}
+
+.slide-container .slide img {
+  width: 100%;
+}
+    </style>
   </head>
   <body>
     <h1>Image Slider</h1>
